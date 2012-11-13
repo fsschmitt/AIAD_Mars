@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repast:Params xmlns:Repast="http://www.src.uchicago.edu" name="myparams">
+<Repast:ParamBlock runs="50">
+<Repast:Param name="NumSpotters" type="incr" start="4" end="6" incr="1" />
+
+<Repast:ParamBlock runs="1">
+<Repast:Param name="NumProdutores" type="const" value="9" />
+
+<Repast:Param name="NumTransportadores" type="const" value="8" />
+
+<Repast:Param name="RangeComunicacao" type="const" value="8" />
+
+</Repast:ParamBlock>
+</Repast:ParamBlock>
+</Repast:Params>
